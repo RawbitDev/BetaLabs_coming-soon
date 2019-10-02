@@ -1,0 +1,25 @@
+#typewriter {
+  position: relative;
+  padding-top: 25%;
+  -ms-transform: translateY(-25%);
+  transform: translateY(-25%);
+  vertical-align: middle;
+}
+
+h1, h2, h3 {
+  font-weight: 200;
+  text-align: center;
+}
+
+h1 { 
+  font-size: 3.5em; 
+  }
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1em;
+  margin-top: 2em;
+}
